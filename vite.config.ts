@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/react-weather-app-version-2/"
+  base: "/weather-app-version-2/"
 });
