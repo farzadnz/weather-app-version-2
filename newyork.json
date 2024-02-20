@@ -1,0 +1,105 @@
+{
+  "currentWeather": {
+    "location": "New York, USA",
+    "weatherInfo": "Sunny",
+    "weatherIcon": "WiDaySunny",
+    "temp": "30"
+  },
+
+  "hourlyUpdates": {
+    "sixAM": {
+      "time": "6:00AM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "30"
+    },
+    "nineAM": {
+      "time": "9:00AM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "32"
+    },
+
+    "twelvePM": {
+      "time": "12:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "33"
+    },
+
+    "threePM": {
+      "time": "3:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "34"
+    },
+
+    "sixPM": {
+      "time": "6:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "33"
+    },
+
+    "ninePM": {
+      "time": "9:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "27"
+    }
+  },
+
+  "currentWeatherMoreInfo": {
+    "lowest": "27",
+    "highest": "34",
+    "wind": "12",
+    "humidity": "20%",
+    "uvIndex": "6",
+    "visibility": "16"
+  },
+
+  "dailyUpdates": {
+    "Today": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "27",
+      "highest": "34"
+    },
+
+    "Tue": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "22",
+      "highest": "27"
+    },
+
+    "Wed": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "21",
+      "highest": "26"
+    },
+
+    "Thu": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "20",
+      "highest": "26"
+    },
+
+    "Fri": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "21",
+      "highest": "25"
+    },
+
+    "Sat": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "24",
+      "highest": "30"
+    },
+
+    "Sun": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "22",
+      "highest": "29"
+    }
+  }
+}
