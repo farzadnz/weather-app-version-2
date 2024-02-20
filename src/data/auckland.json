@@ -1,0 +1,105 @@
+{
+  "currentWeather": {
+    "location": "Auckland, NZ",
+    "weatherInfo": "Mostly Cloudy",
+    "weatherIcon": "WiCloudy",
+    "temp": "20"
+  },
+
+  "hourlyUpdates": {
+    "sixAM": {
+      "time": "6:00AM",
+      "weatherIcon": "WiCloudy",
+      "temp": "20"
+    },
+    "nineAM": {
+      "time": "9:00AM",
+      "weatherIcon": "WiCloudy",
+      "temp": "21"
+    },
+
+    "twelvePM": {
+      "time": "12:00PM",
+      "weatherIcon": "WiCloudy",
+      "temp": "22"
+    },
+
+    "threePM": {
+      "time": "3:00PM",
+      "weatherIcon": "WiCloudy",
+      "temp": "22"
+    },
+
+    "sixPM": {
+      "time": "6:00PM",
+      "weatherIcon": "WiCloudy",
+      "temp": "21"
+    },
+
+    "ninePM": {
+      "time": "9:00PM",
+      "weatherIcon": "WiCloudy",
+      "temp": "20"
+    }
+  },
+
+  "currentWeatherMoreInfo": {
+    "lowest": "20",
+    "highest": "22",
+    "wind": "12",
+    "humidity": "20%",
+    "uvIndex": "6",
+    "visibility": "16"
+  },
+
+  "dailyUpdates": {
+    "Today": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Tue": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Wed": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Thu": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Fri": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Sat": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    },
+
+    "Sun": {
+      "weatherIcon": "WiDayCloudy",
+      "weatherInfo": "Cloudy",
+      "lowest": "19",
+      "highest": "20"
+    }
+  }
+}
