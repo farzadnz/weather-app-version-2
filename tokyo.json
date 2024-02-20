@@ -1,0 +1,105 @@
+{
+  "currentWeather": {
+    "location": "Tokyo, Japan",
+    "weatherInfo": "Snowy",
+    "weatherIcon": "WiSnow",
+    "temp": "4"
+  },
+
+  "hourlyUpdates": {
+    "sixAM": {
+      "time": "6:00AM",
+      "weatherIcon": "WiSnow",
+      "temp": "-3"
+    },
+    "nineAM": {
+      "time": "9:00AM",
+      "weatherIcon": "WiSnow",
+      "temp": "0"
+    },
+
+    "twelvePM": {
+      "time": "12:00PM",
+      "weatherIcon": "WiSnow",
+      "temp": "1"
+    },
+
+    "threePM": {
+      "time": "3:00PM",
+      "weatherIcon": "WiSnow",
+      "temp": "3"
+    },
+
+    "sixPM": {
+      "time": "6:00PM",
+      "weatherIcon": "WiSnow",
+      "temp": "4"
+    },
+
+    "ninePM": {
+      "time": "9:00PM",
+      "weatherIcon": "WiSnow",
+      "temp": "3"
+    }
+  },
+
+  "currentWeatherMoreInfo": {
+    "lowest": "-3",
+    "highest": "4",
+    "wind": "18",
+    "humidity": "30%",
+    "uvIndex": "3",
+    "visibility": "4"
+  },
+
+  "dailyUpdates": {
+    "Today": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-3",
+      "highest": "4"
+    },
+
+    "Tue": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-10",
+      "highest": "-4"
+    },
+
+    "Wed": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-12",
+      "highest": "-5"
+    },
+
+    "Thu": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-8",
+      "highest": "-2"
+    },
+
+    "Fri": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-1",
+      "highest": "5"
+    },
+
+    "Sat": {
+      "weatherIcon": "WiSnow",
+      "weatherInfo": "Snowy",
+      "lowest": "-4",
+      "highest": "1"
+    },
+
+    "Sun": {
+      "weatherIcon": "WiDaySnow",
+      "weatherInfo": "Snowy",
+      "lowest": "5",
+      "highest": "12"
+    }
+  }
+}
