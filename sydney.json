@@ -1,0 +1,105 @@
+{
+  "currentWeather": {
+    "location": "Sydney, Australia",
+    "weatherInfo": "Sunny",
+    "weatherIcon": "WiDaySunny",
+    "temp": "35"
+  },
+
+  "hourlyUpdates": {
+    "sixAM": {
+      "time": "6:00AM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "28"
+    },
+    "nineAM": {
+      "time": "9:00AM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "33"
+    },
+
+    "twelvePM": {
+      "time": "12:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "35"
+    },
+
+    "threePM": {
+      "time": "3:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "36"
+    },
+
+    "sixPM": {
+      "time": "6:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "30"
+    },
+
+    "ninePM": {
+      "time": "9:00PM",
+      "weatherIcon": "WiDaySunny",
+      "temp": "27"
+    }
+  },
+
+  "currentWeatherMoreInfo": {
+    "lowest": "27",
+    "highest": "35",
+    "wind": "12",
+    "humidity": "20%",
+    "uvIndex": "8",
+    "visibility": "16"
+  },
+
+  "dailyUpdates": {
+    "Today": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "27",
+      "highest": "35"
+    },
+
+    "Tue": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "30",
+      "highest": "40"
+    },
+
+    "Wed": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "23",
+      "highest": "30"
+    },
+
+    "Thu": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "20",
+      "highest": "28"
+    },
+
+    "Fri": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "25",
+      "highest": "32"
+    },
+
+    "Sat": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "19",
+      "highest": "26"
+    },
+
+    "Sun": {
+      "weatherIcon": "WiDaySunny",
+      "weatherInfo": "Sunny",
+      "lowest": "20",
+      "highest": "27"
+    }
+  }
+}
