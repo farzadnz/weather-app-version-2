@@ -210,7 +210,7 @@ Error generating stack: `+o.message+`
 `,mx=()=>x.jsxs(vx,{children:[x.jsx(gx,{}),x.jsx(ax,{})]}),yx=c0.div`
   display: grid;
   gap: 10px;
-  width: 100%;
+  width: 80%;
 `,Cx=c0.div`
   display: flex;
   width: 100%;
