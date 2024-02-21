@@ -14,7 +14,7 @@ import { SettingsProvider } from "./contexts/SettingsProvider";
 const GridSection = styled.div`
   display: grid;
   gap: 10px;
-  width: 100%;
+  width: 80%;
 `;
 
 const FlexSection = styled.div`
@@ -32,8 +32,8 @@ const MainPageContainer = styled.div`
 
 const theme = createTheme({
   typography: {
-    fontFamily: "Impact"
-  }
+    fontFamily: "Impact",
+  },
 });
 
 const MainPage: React.FC = () => {
